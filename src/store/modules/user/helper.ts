@@ -15,7 +15,7 @@ export interface UserState {
 export function defaultSetting(): UserState {
   return {
     userInfo: {
-      avatar: 'https://raw.githubusercontent.com/Grypse/chatgpt-web/main/src/assets/avatar.jpg',
+      avatar: 'https://raw.githubusercontent.com/Grypse/chatgpt-web/release/src/assets/avatar.jpg',
       name: 'MindChat',
       description: 'MindChat For Your Intelligence Assitant',
     },
