@@ -1,12 +1,11 @@
 {
-  "name": "chatgpt-web",
+  "name": "mindchat-web",
   "version": "2.10.5",
   "private": false,
-  "description": "ChatGPT Web",
-  "author": "ChenZhaoYu <chenzhaoyu1994@gmail.com>",
+  "description": "MindChat Web",
   "keywords": [
-    "chatgpt-web",
-    "chatgpt",
+    "mindchat-web",
+    "mindchat",
     "chatbot",
     "vue"
   ],
